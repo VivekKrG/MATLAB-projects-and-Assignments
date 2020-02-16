@@ -24,7 +24,7 @@ This repository contains MATLAB related files. Here programming files is availab
 
 > **High Pass filter Design**
 
-- __High pass filter______________________________________________________ __RC Filter(Internal Architecture)__
+- __High pass filter__ _______________________________________________________________ __RC Filter(Internal Architecture)__
 
   - ![](Images/im6.png)
   
